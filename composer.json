@@ -1,0 +1,19 @@
+{
+  "name": "newageerp/sf-socket",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Newageerp\\SfSocket\\": ""
+    }
+  },
+  "require": {
+    "symfony/event-dispatcher": "^5.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arturas Jegorenkovas",
+      "email": "info@newageerp.com"
+    }
+  ]
+}
