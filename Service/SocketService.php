@@ -1,6 +1,6 @@
 <?php
 
-namespace Newageerp\SfSocket\Service\Socket;
+namespace Newageerp\SfSocket\Service;
 
 use PhpAmqpLib\Connection\AMQPStreamConnection;
 use PhpAmqpLib\Channel\AMQPChannel;
