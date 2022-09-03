@@ -6,3 +6,5 @@ services:
 
   Newageerp\SfSocket\Service\SocketService:
     arguments: [ ]
+  Newageerp\SfSocket\Service\WsUpdateService:
+    arguments: [ ]
